@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🤵 About Me:
 I'm ASHITH JAIN B N<br>🎓 I’m currently studying for a Master’s degree in Computer Science (MCA equivalent).<br>👯 I’m looking to collaborate on full-stack projects, coding competitions.<br>🌱 I'm exploring web development technologies<br>🌱 I'm exploring web technologies like HTML, CSS, JavaScript, and design tools like Figma.<br>⚡ Fun fact I'm still Student.
 
 
